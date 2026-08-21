@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi, I'm Max
+
+Incoming Economics & Finance student at Charles University (IES), Prague. Before university I co-founded FuelVex, an early-stage e-commerce brand — hands-on experience in sourcing, pricing, and margins.
+
+I build with AI-assisted tools (Next.js, TypeScript, Supabase, Claude Code) to move fast and learn by shipping. Currently exploring where to focus — finance, venture, or business strategy.
+
+Currently: rebuilding my project portfolio with things worth showing, not just things that exist.
+
+Prague, Czech Republic · [LinkedIn](https://www.linkedin.com/in/shyvmax/)
 
 <!--
 **Max2000321/Max2000321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
